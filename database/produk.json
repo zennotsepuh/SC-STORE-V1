@@ -1,0 +1,46 @@
+{
+    "produk": [
+        {
+            "id": 1,
+            "nama": "APK BUG MANTAX",
+            "harga": 60.000,
+            "stok": 4,
+            "kategori": "APK",
+            "deskripsi": "60k PERMANEN"
+        },
+        {
+            "id": 2,
+            "nama": "WEB SUNTIK SOSMED",
+            "harga": 15.000,
+            "stok": 999999,
+            "kategori": "WEB",
+            "deskripsi": "KEUNTUNGAN? BISA SUNTIK SENDIRI SEPUASNYA"
+        },
+        {
+            "id": 3,
+            "nama": "NOKOS ALL NEGARA",
+            "harga": MULAI HARGA 5.000,
+            "stok": 99999,
+            "kategori": "NOKOS",
+            "deskripsi": "TANYAKAN STOK SEBELUM ORDER!"
+        },
+        {
+            "id": 4,
+            "nama": "MURID BUG",
+            "harga": 15.000,
+            "stok": 999999,
+            "kategori": "BUG",
+            "deskripsi": "KEUNTUNGAN? BEBAS SPAM!"
+        },
+        {
+            "id": 5,
+            "nama": "PANEL PTERODACTYL LEGAL",
+            "harga": 18.000,
+            "stok": 99999,
+            "kategori": "PANEL",
+            "deskripsi": "KEUNTUNGAN? SUPP BUAT APK"
+        }
+    ],
+    "order": [],
+    "user": []
+}
